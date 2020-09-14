@@ -3,7 +3,7 @@ by nguyenkvvn
 
 An AR-15 lower optimized for an Atchission/CMMG .22 LR conversion kit
 
-Public Release v1.0
+Public Release v1.1
 
 ## Description
 The DS1913 is an AR-15 lower, based off the Disruptive Solutions AR-15 lower from FOSSCAD, optimized for an Atchission/CMMG .22 LR conversion kit. Features to it include a 1913 rail on the rear for mounting compact braces or stocks, bolt-catch delete for added reinforcement, and integrated bolt-press-forward to increase reliability. The lower is refined specifically for 3D printing, accounting for shrinkage and tolerances (meaning your printer must be 100% calibrated), along with modifications needed to make the lower functional, as the original was published as untested. 
@@ -31,6 +31,10 @@ It is imperative you read this entire document before beginning this project.
 ## Changelog
 * Public Release Beta v1.0
 > - Initial release
+
+* Public Release Beta v1.1
+> - Revised right hand selector clearance
+> - Revised thin wall in magazine release button extrusion
 
 ## License
 > MIT License
