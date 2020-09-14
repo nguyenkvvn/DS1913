@@ -16,7 +16,7 @@ It is imperative you read this entire document before beginning this project.
 ## Materials Required
 1. **.22 LR AR-15 Upper Receiver** - CMNG/PSA .22LR Dedicated Receiver, or CMNG .22LR Conversion Kit.
 2. **AR-15 Lower Parts Kit** - A lower parts kit of your choosing will do. Mil-spec is the minimum.
-3. **AR-15 Fire Control Group** - You will need a _mil-spec_ AR-15 fire control group. (Sorry, no drop-in triggers!)
+3. **AR-15 Fire Control Group** - You will need a _mil-spec_ AR-15 fire control group.
 4. **AR-15 Grip** - You will need the grip screw, and a pistol grip of your choosing.
 
 ## Instructions
